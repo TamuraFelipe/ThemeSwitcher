@@ -7,8 +7,7 @@
 <h2>Descrição</h2>
 <p>Desafio criação de um botão theme switcher da <a href="https://www.rocketseat.com.br/">Rocketseat</a>. Um botão que alterna entre modo dark e light.</p>
 <ul>
-  <li><a href="https://efficient-sloth-d85.notion.site/Desafio-Pricing-Table-e0b6f59253e54d229fdde09228226b32" target="_blank">Link para o Desafio</a></li>
-  <li><a href="https://app.rocketseat.com.br/discover/challenges/theme-switcher" target="_blank">Link para o Desafio</a></li>
+  <li><a href="https://efficient-sloth-d85.notion.site/Desafio-Theme-Switcher-dbabdf77f70d43298df382c8e805fc13" target="_blank">Link para o Desafio</a></li>
   <li>Conceitos de HTML, CSS e JS</li>
   <li>Utilizando position e transition</li>
 </ul>
