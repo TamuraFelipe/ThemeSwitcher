@@ -1,4 +1,4 @@
-<h2>Desafio - Theme Switcher/h2>
+<h2>Desafio - Theme Switcher</h2>
 
 <div align="center">
   <img width="600" src="https://efficient-sloth-d85.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F05e26857-0024-4c00-8c79-1f802ac2503a%2Fpreview.gif?table=block&id=89098498-cdd2-4b60-a6b7-3269d7fa947d&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&userId=&cache=v2" />
