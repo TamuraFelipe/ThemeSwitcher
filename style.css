@@ -1,0 +1,51 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #292C35;
+    transition: background 700ms;
+}
+
+.switcher{
+    position: relative;
+    background-color: #000;
+    width: 235px;
+    height: 102px;
+    border-radius: 50px;
+}
+.switcher svg:nth-child(1){
+    position: absolute;
+    top: 5px;
+    left: 0;
+    width: 94px;
+    height: 94px;
+}
+.switcher svg:nth-child(2){
+    position: absolute;
+    top: 5px;
+    right: 0;
+    width: 94px;
+    height: 94px;
+}
+
+
+.button{
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 86px;
+    height: 86px;
+    transition: right 500ms;
+}
+
+div.turn-btn{
+    right: 142px;
+}
+
+body.light{
+    background-color: #fff;
+}

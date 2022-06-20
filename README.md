@@ -1,25 +1,24 @@
-<h2>Projeto Desafio - Discover</h2>
+<h2>Desafio - Theme Switcher/h2>
 
 <div align="center">
-  <img width="600" src="https://efficient-sloth-d85.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F589a038a-dd0c-432d-a954-0ecf15eb5fd5%2FDesktop.png?table=block&id=d5f9da12-4b3d-404a-b6dd-de37e0796d03&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=2000&userId=&cache=v2" />
+  <img width="600" src="https://efficient-sloth-d85.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F05e26857-0024-4c00-8c79-1f802ac2503a%2Fpreview.gif?table=block&id=89098498-cdd2-4b60-a6b7-3269d7fa947d&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&userId=&cache=v2" />
 </div>
   
 <h2>Descrição</h2>
-<p>Desafio de projeto do programa Discover da <a href="https://www.rocketseat.com.br/">Rocketseat</a>. Página simples contendo alguns cards com plano, valores, descrição, etc.</p>
+<p>Desafio criação de um botão theme switcher da <a href="https://www.rocketseat.com.br/">Rocketseat</a>. Um botão que alterna entre modo dark e light.</p>
 <ul>
   <li><a href="https://efficient-sloth-d85.notion.site/Desafio-Pricing-Table-e0b6f59253e54d229fdde09228226b32" target="_blank">Link para o Desafio</a></li>
-  <li>Página simples</li>
-  <li>Conceitos de Responsividade</li>
-  <li>Utilização de alguns transitions (CSS3)</li>
-  <li>Adição de um pequeno footer com meu nome e links para Github, Twitter e Linkedin</li>
+  <li><a href="https://app.rocketseat.com.br/discover/challenges/theme-switcher" target="_blank">Link para o Desafio</a></li>
+  <li>Conceitos de HTML, CSS e JS</li>
+  <li>Utilizando position e transition</li>
 </ul>
 
 <h2>Tecnologias Utilizadas</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!--<img align="center" alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />-->
   <!--<img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />-->
